@@ -12,14 +12,17 @@ Source code is not published here.
 A small desk device that shows, at a glance, what your Claude Code sessions are doing and
 how much of your usage limit is left.
 
+> **Beta.** Versions 0.9.x are early releases for testers: expect rough edges, and please
+> report what you find. Version 1.0.0 will be the first full release.
+
 ### Download
 
 Open the newest **`fennec-vX.Y.Z`** release under
 [Releases](https://github.com/AbdelhediMed05/FORGE-releases/releases) and download
 **`FennecSetup.exe`**.
 
-> `fennec-latest` is the update channel the app reads. It holds no installer; download
-> from a versioned release.
+> The `channel/` folder in this repository is what the app reads to find updates. It is
+> not a download.
 
 ### Requirements
 
